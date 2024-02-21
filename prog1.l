@@ -1,3 +1,4 @@
+//check if it recognises string ab
 %{
 #include<stdio.h>
 int count=0;
