@@ -22,4 +22,4 @@ Commands to access your repo with SSH SECURE SHELL:
 
 Commands to create a specific extension file within repo:
 
-1. nano folder_name.extension (e.g program1.lex)
+1. nano file_name.extension (e.g program1.lex)
