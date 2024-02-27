@@ -1,3 +1,5 @@
+//lex program to count negative and positive integers
+
 %{
 #include<stdio.h>
 int pos=0;
