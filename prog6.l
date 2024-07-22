@@ -1,3 +1,5 @@
+#program to check validity of expression
+
 %token NUM ID NL
 %left '+' '-'
 %left '*' '/'
