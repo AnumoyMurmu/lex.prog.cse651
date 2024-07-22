@@ -1,6 +1,5 @@
-//Check vowels and consonants in a given st
+//Check vowels and consonants in a given string.
 %{
-ring.
 #include<stdio.h>
 int v=0, c=0;
 %}
